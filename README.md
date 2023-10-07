@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hansini Karunarathne</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/hansinikarunarathne?label=Followers&logo=GitHub)
-![](https://komarev.com/ghpvc/?usernamehansinikarunarathne=&color=blue)
+![](https://komarev.com/ghpvc/?username=hansinikarunarathne&color=blue)
 
 
 ## I'm a Developer and a Student!!
