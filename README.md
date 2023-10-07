@@ -31,3 +31,10 @@
   </div>
 </div>
 
+### Top Repositories
+
+<p float="left">
+<a href="https://github.com/orgs/CSE-NLP-Chatbot/repositories">
+  <img style = "margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CSE-NLP-Chatbot&repo=CSE-NLP-chatbot&theme=dracula" />
+</a>
+</p>
