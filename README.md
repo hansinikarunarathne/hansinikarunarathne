@@ -22,7 +22,7 @@
       <img src = "https://github-readme-stats.vercel.app/api?username=hansinikarunarathne&show_icons=true&line_height=27count_private=true&theme=dracula" style="  max-width: 100%; height: auto;">
     </div>
     <div style="display: inline;">
-      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hansinikarunarthne&layout=compact&theme=dracula" style="  max-width: 100%; height: 209px; margin-left:5px;">
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hansinikarunarathne&layout=compact&theme=dracula" style="  max-width: 100%; height: 209px; margin-left:5px;">
     </div>
   </div>
 </div>
