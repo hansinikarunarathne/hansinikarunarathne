@@ -37,4 +37,7 @@
 <a href="https://github.com/orgs/CSE-NLP-Chatbot/repositories">
   <img style = "margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CSE-NLP-Chatbot&repo=CSE-NLP-chatbot&theme=dracula" />
 </a>
+<a href="https://github.com/team-ebusiness/eBusiness#e-commerce_platform">
+  <img style = "margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-ebusiness&repo=eBusiness#e-commerce_platform&theme=dracula" />
+</a>
 </p>
